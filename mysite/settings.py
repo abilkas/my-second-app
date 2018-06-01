@@ -25,7 +25,7 @@ SECRET_KEY = 'm(+rfy7042u6+!$55b*%q%hgr8x4(x+6p*v=*l_9xk@k6&_6$q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'nubocoder.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'islambekmacho.pythonanywhere.com']
 
 
 # Application definition
